@@ -1,3 +1,10 @@
+/*
+project:    Payroll
+Author:     Felix Mutugi
+Compiler:   C89
+License:    MIT
+Date:       July 2022
+*/
 // calculate income including overtime minus tax
 # include <stdio.h>
 # include <stdlib.h>
